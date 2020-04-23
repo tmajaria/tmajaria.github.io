@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Majarian | Tim&#39;s website</title>
+    <link>https://tmajaria.github.io/author/tim-majarian/</link>
+      <atom:link href="https://tmajaria.github.io/author/tim-majarian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Majarian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 15:10:55 -0400</lastBuildDate>
+    <image>
+      <url>https://tmajaria.github.io/author/tim-majarian/avatar_hub43e52987e12e09b18c72e4529b6f8eb_316575_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Tim Majarian</title>
+      <link>https://tmajaria.github.io/author/tim-majarian/</link>
+    </image>
+    
+    <item>
+      <title>GWAS in the cloud</title>
+      <link>https://tmajaria.github.io/project/cloud_workflows/</link>
+      <pubDate>Thu, 23 Apr 2020 15:10:55 -0400</pubDate>
+      <guid>https://tmajaria.github.io/project/cloud_workflows/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;We developed a number of open-source pipelines, written in WDL for use in statistical genetics. A few of these tools are demonstrated in our 
+&lt;a href=&#34;https://app.terra.bio/#workspaces/amp-t2d-op/2019_ASHG_Reproducible_GWAS-V2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured workspace&lt;/a&gt; on the Terra platform&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Influenza assembly dynamics</title>
+      <link>https://tmajaria.github.io/project/influenza/</link>
+      <pubDate>Thu, 23 Apr 2020 14:38:16 -0400</pubDate>
+      <guid>https://tmajaria.github.io/project/influenza/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Within influenza virus infected cells, viral genomic RNA are selectively packed into progeny virions, which predominantly contain a single copy of 8 viral RNA segments. Intersegmental RNA-RNA interactions are thought to mediate selective packaging of each viral ribonucleoprotein complex (vRNP). Clear evidence of a specific interaction network culminating in the full genomic set has yet to be identified. Using multi-color fluorescence in situ hybridization to visualize four vRNP segments within a single cell, we developed image-based models of vRNP-vRNP spatial dependence. These models were used to construct likely sequences of vRNP associations resulting in the full genomic set. Our results support the notion that selective packaging occurs during cytoplasmic transport and identifies the formation of multiple distinct vRNP sub-complexes that likely form as intermediate steps toward full genomic inclusion into a progeny virion. The methods employed demonstrate a statistically driven, model based approach applicable to other interaction and assembly problems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

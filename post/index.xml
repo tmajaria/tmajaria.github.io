@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Tim&#39;s website</title>
+    <link>https://tmajaria.github.io/post/</link>
+      <atom:link href="https://tmajaria.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://tmajaria.github.io/images/logo_hu043a143f37cb84c41456d0d4a8bc709c_18417_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>https://tmajaria.github.io/post/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,17 +1,86 @@
----
-layout: null
-title : Sitemap
----
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for post in site.posts %}
-    <url>
-        <loc>{{site.url}}{{ post.url | prepend: site.baseurl }}</loc>
-    </url>
-{% endfor %}
-{% for page in site.pages %}
-    <url>
-        <loc>{{site.url}}{{ page.url | prepend: site.baseurl }}</loc>
-    </url>
-{% endfor %}
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tmajaria.github.io/authors/</loc>
+    <lastmod>2020-04-23T15:10:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/project/cloud_workflows/</loc>
+    <lastmod>2020-04-23T15:10:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/project/</loc>
+    <lastmod>2020-04-23T15:10:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/author/tim-majarian/</loc>
+    <lastmod>2020-04-23T15:10:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/</loc>
+    <lastmod>2020-04-23T15:10:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/publication-type/2/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/publication/influenza/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/publication_types/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/publication/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/author/rf-murphy/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/author/ss-lakdawala/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/author/td-majarian/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/project/influenza/</loc>
+    <lastmod>2020-04-23T14:38:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/tags/</loc>
+  </url>
+  
 </urlset>

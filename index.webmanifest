@@ -1,0 +1,18 @@
+{
+  "name": "Tim&#39;s website",
+  "short_name": "Tim&#39;s website",
+  "lang": "en-us",
+  "theme_color": "#7AD151",
+  "background_color": "#7AD151",
+  "icons": [{
+    "src": "/images/icon_hu043a143f37cb84c41456d0d4a8bc709c_18417_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu043a143f37cb84c41456d0d4a8bc709c_18417_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
