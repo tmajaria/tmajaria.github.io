@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tmajaria.github.io/tutorials/cloud_gwas/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/tutorials/cloud_gwas/dockstore/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/tutorials/cloud_gwas/workspaces/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tmajaria.github.io/authors/</loc>
     <lastmod>2020-04-23T15:10:55-04:00</lastmod>
   </url>
@@ -65,6 +80,11 @@
   <url>
     <loc>https://tmajaria.github.io/project/influenza/</loc>
     <lastmod>2020-04-23T14:38:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tmajaria.github.io/tutorials/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>

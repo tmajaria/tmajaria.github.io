@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials | Tim&#39;s website</title>
+    <link>https://tmajaria.github.io/tutorials/</link>
+      <atom:link href="https://tmajaria.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tutorials</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://tmajaria.github.io/img/dna.jpg</url>
+      <title>Tutorials</title>
+      <link>https://tmajaria.github.io/tutorials/</link>
+    </image>
+    
+  </channel>
+</rss>
