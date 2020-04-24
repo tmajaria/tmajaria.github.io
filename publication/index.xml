@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Tim&#39;s website (Under development)</title>
+    <title>Publications | Tim&#39;s website - Under development</title>
     <link>https://tmajaria.github.io/publication/</link>
       <atom:link href="https://tmajaria.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -17,7 +17,9 @@
       <link>https://tmajaria.github.io/publication/influenza/</link>
       <pubDate>Thu, 23 Apr 2020 14:50:54 -0400</pubDate>
       <guid>https://tmajaria.github.io/publication/influenza/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;read-the-full-article&#34;&gt;Read the full article&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1006199&#34;&gt;https://doi.org/10.1371/journal.pcbi.1006199&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
