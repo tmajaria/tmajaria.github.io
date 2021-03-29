@@ -1,111 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://tmajaria.github.io/tutorials/cloud_gwas/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/tutorials/cloud_gwas/dockstore/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/tutorials/cloud_gwas/workspaces/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/authors/</loc>
     <lastmod>2020-04-23T15:10:55-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/project/cloud_workflows/</loc>
     <lastmod>2020-04-23T15:10:55-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/project/</loc>
     <lastmod>2020-04-23T15:10:55-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/author/tim-majarian/</loc>
     <lastmod>2020-04-23T15:10:55-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/</loc>
     <lastmod>2020-04-23T15:10:55-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/publication-type/2/</loc>
     <lastmod>2020-04-23T14:50:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://tmajaria.github.io/publication-type/3/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url><url>
+    <loc>https://tmajaria.github.io/author/heather-m-highland/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url><url>
+    <loc>https://tmajaria.github.io/author/jennifer-wessel/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url><url>
     <loc>https://tmajaria.github.io/publication/influenza/</loc>
     <lastmod>2020-04-23T14:50:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/publication_types/</loc>
     <lastmod>2020-04-23T14:50:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/publication/</loc>
     <lastmod>2020-04-23T14:50:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://tmajaria.github.io/publication/topmed_t2d/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url><url>
     <loc>https://tmajaria.github.io/author/rf-murphy/</loc>
     <lastmod>2020-04-23T14:50:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/author/ss-lakdawala/</loc>
     <lastmod>2020-04-23T14:50:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/author/td-majarian/</loc>
     <lastmod>2020-04-23T14:50:54-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://tmajaria.github.io/author/timothy-d-majarian/</loc>
+    <lastmod>2020-04-23T14:50:54-04:00</lastmod>
+  </url><url>
     <loc>https://tmajaria.github.io/project/influenza/</loc>
     <lastmod>2020-04-23T14:38:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/tutorials/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/more_about/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://tmajaria.github.io/author/et-al./</loc>
+  </url><url>
     <loc>https://tmajaria.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tmajaria.github.io/tags/</loc>
   </url>
-  
 </urlset>

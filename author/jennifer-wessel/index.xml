@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Tim&#39;s website - Under development</title>
-    <link>https://tmajaria.github.io/publication/</link>
-      <atom:link href="https://tmajaria.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Jennifer Wessel | Tim&#39;s website - Under development</title>
+    <link>https://tmajaria.github.io/author/jennifer-wessel/</link>
+      <atom:link href="https://tmajaria.github.io/author/jennifer-wessel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jennifer Wessel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 14:50:54 -0400</lastBuildDate>
     <image>
       <url>https://tmajaria.github.io/images/logo_hu043a143f37cb84c41456d0d4a8bc709c_18417_300x300_fit_lanczos_2.png</url>
-      <title>Publications</title>
-      <link>https://tmajaria.github.io/publication/</link>
+      <title>Jennifer Wessel</title>
+      <link>https://tmajaria.github.io/author/jennifer-wessel/</link>
     </image>
-    
-    <item>
-      <title>Learning the sequence of influenza A genome assembly during viral replication using point process models and fluorescence in situ hybridization</title>
-      <link>https://tmajaria.github.io/publication/influenza/</link>
-      <pubDate>Thu, 23 Apr 2020 14:50:54 -0400</pubDate>
-      <guid>https://tmajaria.github.io/publication/influenza/</guid>
-      <description>&lt;h2 id=&#34;read-the-full-article&#34;&gt;Read the full article&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1006199&#34;&gt;https://doi.org/10.1371/journal.pcbi.1006199&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Rare Non-coding Variation Identified by Large Scale Whole Genome Sequencing Reveals Unexplained Heritability of Type 2 Diabetes</title>
