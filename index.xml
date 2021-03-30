@@ -78,16 +78,6 @@
     </item>
     
     <item>
-      <title>Learning the sequence of influenza A genome assembly during viral replication using point process models and fluorescence in situ hybridization</title>
-      <link>https://tmajaria.github.io/publication/influenza/</link>
-      <pubDate>Thu, 23 Apr 2020 14:50:54 -0400</pubDate>
-      <guid>https://tmajaria.github.io/publication/influenza/</guid>
-      <description>&lt;h2 id=&#34;read-the-full-article&#34;&gt;Read the full article&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1006199&#34;&gt;https://doi.org/10.1371/journal.pcbi.1006199&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Influenza assembly dynamics</title>
       <link>https://tmajaria.github.io/project/influenza/</link>
       <pubDate>Thu, 23 Apr 2020 14:38:16 -0400</pubDate>
@@ -95,6 +85,16 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Within influenza virus infected cells, viral genomic RNA are selectively packed into progeny virions, which predominantly contain a single copy of 8 viral RNA segments. Intersegmental RNA-RNA interactions are thought to mediate selective packaging of each viral ribonucleoprotein complex (vRNP). Clear evidence of a specific interaction network culminating in the full genomic set has yet to be identified. Using multi-color fluorescence in situ hybridization to visualize four vRNP segments within a single cell, we developed image-based models of vRNP-vRNP spatial dependence. These models were used to construct likely sequences of vRNP associations resulting in the full genomic set. Our results support the notion that selective packaging occurs during cytoplasmic transport and identifies the formation of multiple distinct vRNP sub-complexes that likely form as intermediate steps toward full genomic inclusion into a progeny virion. The methods employed demonstrate a statistically driven, model based approach applicable to other interaction and assembly problems.&lt;/p&gt;
 &lt;h2 id=&#34;read-more&#34;&gt;Read more&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1006199&#34;&gt;https://doi.org/10.1371/journal.pcbi.1006199&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning the sequence of influenza A genome assembly during viral replication using point process models and fluorescence in situ hybridization</title>
+      <link>https://tmajaria.github.io/publication/influenza/</link>
+      <pubDate>Mon, 28 Jan 2019 14:50:54 -0400</pubDate>
+      <guid>https://tmajaria.github.io/publication/influenza/</guid>
+      <description>&lt;h2 id=&#34;read-the-full-article&#34;&gt;Read the full article&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1006199&#34;&gt;https://doi.org/10.1371/journal.pcbi.1006199&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
