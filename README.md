@@ -8,20 +8,24 @@ LinkedIn: https://www.linkedin.com/in/tmajarian/
 ## Experience
 
 **The Broad Institute**  
-*Computational Associate II* <div style="text-align: right"> July 2020 – Present </div>  
+*Computational Associate II*  
+July 2020 – Present  
 Led effort in developing and testing systems for interoperating among multiple NIH-backed cloud platforms. Coordinated grant submission, managed costs and progress, completed monthly deliverables for an NIH subcontract award. Created and maintained multiple large-scale biobank resources for multiple labs across Broad and Mass. General Hospital. Created and implemented various polygenic scores for metabolomic traits and diseases. Mentored and managed multiple junior scientists and trainees.  
 
-*Computational Associate I* August 2017 - July 2020  
+*Computational Associate I*  
+August 2017 - July 2020  
 Developed cloud computing pipelines for genetic analyses including GWAS, LD score regression, credible set analysis. Led multiple training sessions on cloud-based biomedical research attended by over 100 scientists. Contributed to multiple international research consortia focused on type 2 diabetes and related clinical phenotypes. Developed novel methods for assessing the impact of rare genetic variation on complex human disease and predicting target genes from GWAS loci.  
 
 ## Education
 
-**Carnegie Mellon University** 2015-2017  
+**Carnegie Mellon University**  
+2015-2017  
 MS in Computational Biology  
 Distinguished Research Award  
 Coursework: Computational genomics, Machine learning, Biological modeling and simulation, Automation in biological research, Bioimage informatics
 
-**The University of Vermont** 2009-2013  
+**The University of Vermont**  
+2009-2013  
 BA in Applied Mathematics & Biology  
 Honors College  
 
