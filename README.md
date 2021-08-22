@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/tmajarian/
 ## Experience
 
 **The Broad Institute**  
-*Computational Associate II* July 2020 – Present  
+*Computational Associate II* <div style="text-align: right"> July 2020 – Present </div>  
 Led effort in developing and testing systems for interoperating among multiple NIH-backed cloud platforms. Coordinated grant submission, managed costs and progress, completed monthly deliverables for an NIH subcontract award. Created and maintained multiple large-scale biobank resources for multiple labs across Broad and Mass. General Hospital. Created and implemented various polygenic scores for metabolomic traits and diseases. Mentored and managed multiple junior scientists and trainees.  
 
 *Computational Associate I* August 2017 - July 2020  
