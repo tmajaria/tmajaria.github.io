@@ -1,1 +1,0 @@
-<https://tmajaria.github.io/>
