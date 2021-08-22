@@ -1,7 +1,7 @@
 ## Contact
 ---
 Email: tmajarian@gmail.com  
-Linkedin: [linkedin.com/in/tmajarian/](linkedin.com/in/tmajarian/)  
+Linkedin: [linkedin.com/in/tmajarian](https://www.linkedin.com/in/tmajarian/)  
 
 ## Experience
 ---
