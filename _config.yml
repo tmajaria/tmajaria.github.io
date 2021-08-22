@@ -14,5 +14,4 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-minimal
 title: Tim Majarian
-contact: [tmajarian@gmail.com]
 description: Computational biologist with expertise in human genetics, complex human disease, and cloud computing infrustructures.  
