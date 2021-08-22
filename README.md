@@ -1,5 +1,3 @@
-# Tim Majarian
-
 ## Contact
 ---
 Email: tmajarian@gmail.com  
